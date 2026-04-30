@@ -25,6 +25,7 @@ Interactive donut chart for channel contribution
 Time-Based Insights
 Yearly comparison of sales quantity vs previous year
 Trend analysis for long-term performance
+
 ⚙️ Project Workflow
 Data Collection
 Aggregated automotive sales data from multiple sources
@@ -38,11 +39,13 @@ Dashboard Development
 Designed interactive visuals
 Implemented filters (Year selection, categories)
 Focused on usability and storytelling
+
 🛠️ Tools & Technologies
 Power BI
 DAX (Data Analysis Expressions)
 Data Modeling
 Data Visualization Best Practices
+
 📈 Business Value
 
 This dashboard helps stakeholders:
@@ -51,6 +54,8 @@ Monitor revenue performance in real-time
 Identify top-performing products and markets
 Analyze sales channels effectiveness
 Make data-driven strategic decisions
+
+
 📷 Preview
 
 Includes:
